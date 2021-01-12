@@ -23,7 +23,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <org.mapstruct.version>1.3.0.Final</org.mapstruct.version>
+        <org.mapstruct.version>1.4.1.Final</org.mapstruct.version>
         <jaxb.version>2.3.0</jaxb.version>
         <awaitility.version>3.1.6</awaitility.version>
         <org.lombok-mapstruct-binding.version>0.2.0</org.lombok-mapstruct-binding.version>
